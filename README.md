@@ -1,0 +1,1 @@
+# Nextjs ve Netlify ile blog oluşturma
