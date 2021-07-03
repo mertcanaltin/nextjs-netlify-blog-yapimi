@@ -491,16 +491,3 @@ https://mertcanaltin.netlify.app/
 ## Sen yaptın!
 
 Tebrikler. Uzun bir yolculuktu, ancak optimize edilmiş bir statik site oluşturmak için dinamik yönlendirme ve Next'teki en yeni ve en büyük işlevlerle tamamlanmış bir Next 9.4 destekli Markdown blogu oluşturdunuz. Ve tabii ki, onu Netlify'ye dağıttınız ve siz onu güncellemeye devam ettiğiniz sürece güncellenmeye devam edecek.
-
-Seninle gurur duyuyorum ve umarım bugün bir şeyler öğrenmişsindir! Sorularınız olursa [Topluluğumuza gidin](https://community.netlify.com/) ve sizi sıralayalım!
-
-
-
-[![Cassidy Williams](https://cdn.netlify.com/27476c108aef07119b88d75aa0361438bf4ad062/43905/img/blog/authors/thumbnails/cassidy-williams.jpg)](https://www.netlify.com/authors/cassidy-williams)
-
-[Cassidy Williams](https://www.netlify.com/authors/cassidy-williams) tarafından yazıldı.[](https://www.netlify.com/authors/cassidy-williams)
-
-hiçbir şekilde ticari amaç için çevirilmemiştir tamamen türkçe dilinde bilgiyi yaymak amacı ile çevrilmiş yazıdır kendisine çok teşekkürler
-
-Yayınlandığı [Kılavuzları & Rehberler](https://www.netlify.com/topics/tutorials) üzerinde 4 Mayıs 2020
-
